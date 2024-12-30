@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1735585318,
+	"version": 1735585726,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -37,6 +37,20 @@
 		"c2mp-peer.js",
 		"c2mp.js",
 		"waker.js",
-		"three.js"
+		"three.min.js",
+		"OBJLoader.js",
+		"Q3D.collisionSystem.js",
+		"Q3D.migrate.js",
+		"Q3D.commonACE.js",
+		"Q3D.qfxLoader.js",
+		"WebGLDeferredRenderer.js",
+		"ShaderDeferred.js",
+		"CopyShader.js",
+		"FXAAShader.js",
+		"EffectComposer.js",
+		"RenderPass.js",
+		"ShaderPass.js",
+		"MaskPass.js",
+		"Q3D.SkinnedMesh.js"
 	]
 }
