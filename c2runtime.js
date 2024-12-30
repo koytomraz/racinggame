@@ -26759,4 +26759,3 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Function.prototype.acts.SetReturnValue,
 	cr.plugins_.Touch.prototype.cnds.IsTouchingObject
 ];};
-
